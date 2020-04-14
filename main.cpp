@@ -674,8 +674,8 @@ int main(){
     while(true){
 
         string word;
-        cout<<"Enter the string to check whether it belongs to given regular expression or not."<<endl
-            <<"OR press 1 to exit out of simulator."<<endl;
+        cout<<"Enter 1 to exit"<<endl
+            <<"OR enter the string to check if string pattern matches the entered Regular Expression"<<endl;
         cout<<"Enter String :- "<<endl;
         cin>>word;
 
